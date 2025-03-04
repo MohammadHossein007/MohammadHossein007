@@ -16,4 +16,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadHossein007&layout=compact&theme=dark)  
 
 🐍 **Snake Animation:**  
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)  
+![snake gif](https://github.com/MohammadHossein007/MohammadHossein007/blob/output/github-contribution-grid-snake.svg)  
