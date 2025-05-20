@@ -1,7 +1,8 @@
 ### 👋 Hi! I'm Mohammad Hossein Mohammadi
 
 💻 **Skills:**  
-[![My Skills](https://skillicons.dev/icons?i=py, django, linux, git, postgres, pycharm)](https://skillicons.dev)]
+[![My Skills](https://skillicons.dev/icons?i=py,django,linux,git,postgres,pycharm)](https://skillicons.dev)](https://skillicons.dev)
+
 
 
 📚 **Interested in:**  
