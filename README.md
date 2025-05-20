@@ -1,12 +1,12 @@
 ### 👋 Hi! I'm Mohammad Hossein Mohammadi
 
 💻 **Skills:**  
-[![py](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
-[![django](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
-[![linux](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
-[![git](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
-[![postgres](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
-[![pycharm](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
+[![py](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)]
+[![django](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)]
+[![linux](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)]
+[![git](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)]
+[![postgres](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)]
+[![pycharm](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)]
 
 📚 **Interested in:**  
 - Web development with Django 🖥️  
