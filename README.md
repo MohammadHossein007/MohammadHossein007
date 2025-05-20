@@ -1,10 +1,12 @@
 ### 👋 Hi! I'm Mohammad Hossein Mohammadi
 
 💻 **Skills:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)    
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+[![py](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
+[![django](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
+[![linux](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
+[![git](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
+[![postgres](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
+[![pycharm](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
 
 📚 **Interested in:**  
 - Web development with Django 🖥️  
