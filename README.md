@@ -2,7 +2,7 @@
 
 ## 💻 **Skills**: 
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,linux,git,postgres,celery)](https://skillicons.dev)
+[![My Skills]([BASE_URL]?i=python,django,postgresql,linux)
 
 
 ## 📚 **Interested in:**  
