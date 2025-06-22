@@ -2,7 +2,7 @@
 
 ## 💻 **Skills**: 
 
-[![My Skills]([BASE_URL]?i=python,django,postgresql,linux)
+[![My Skills]([simpleicons.org]?i=python,django,postgresql,linux)
 
 
 ## 📚 **Interested in:**  
