@@ -1,9 +1,11 @@
 ### 👋 Hi! I'm Mohammad Hossein Mohammadi
 
 ## 💻 **Skills**: 
-
-[![My Skills]([https://simpleskill.icons.workers.dev/svg]?i=python,django,postgresql,linux)
-
+<p align="center">
+  <a href="#">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=python,django,postgresql,git,linux,pycharm,celery,redis,pytest&theme=dark" />
+  </a>
+</p>
 
 ## 📚 **Interested in:**  
 - Web development with Django 🖥️  
