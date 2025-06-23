@@ -3,7 +3,7 @@
 ## 💻 **Skills**: 
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=python,django,postgresql,git,linux,pycharm,celery,redis,pytest&theme=dark" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=python,django,postgresql,git,linux,celery,redis,pytest&theme=dark" />
   </a>
 </p>
 
