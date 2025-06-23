@@ -13,5 +13,9 @@
 - Solving programming challenges 🎯  
 
 ## 📊 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadHossein007&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadHossein007&layout=compact&theme=dark)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadHossein007&show_icons=true&theme=dark"/>  
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadHossein007&layout=compact&theme=dark"/>
+</p>
